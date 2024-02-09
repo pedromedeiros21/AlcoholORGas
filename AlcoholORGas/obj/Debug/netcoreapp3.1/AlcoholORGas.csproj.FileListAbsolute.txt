@@ -1,0 +1,14 @@
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\bin\Debug\netcoreapp3.1\AlcoholORGas.exe
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\bin\Debug\netcoreapp3.1\AlcoholORGas.deps.json
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\bin\Debug\netcoreapp3.1\AlcoholORGas.runtimeconfig.json
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\bin\Debug\netcoreapp3.1\AlcoholORGas.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\bin\Debug\netcoreapp3.1\AlcoholORGas.dll
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\bin\Debug\netcoreapp3.1\AlcoholORGas.pdb
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.csproj.AssemblyReference.cache
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.AssemblyInfo.cs
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.dll
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.pdb
+C:\Users\pedro\source\repos\pedromedeiros21\ProjetosGraduacao\AlcoholORGas\AlcoholORGas\obj\Debug\netcoreapp3.1\AlcoholORGas.genruntimeconfig.cache
